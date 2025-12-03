@@ -18,4 +18,4 @@ My GitHub page is http://github.com/drizzy072.
 
 * Lab 4
 
-    lab 4 part 1 was one of my favorites because of the converson rates from mL to cups. This one was intresting to me because I also bake when I have the time. It was fun finding out how many mL go into a cup. With this lab I was ablr to understand and use doubles better.
+    lab 4 part 1 was one of my favorites because of the converson rates from mL to cups. This one was intresting to me because I also bake when I have the time. It was fun finding out how many mL go into a cup. With this lab I was able to understand and use doubles better.
